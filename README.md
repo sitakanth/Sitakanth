@@ -1,4 +1,4 @@
-# Hi, I'm Sitakanth Rao 👋
+# Hi, I'm Sitakanth 👋
 
 ## 🚀 Full-Stack AI Engineer | Data Analytics | Machine Learning
 
