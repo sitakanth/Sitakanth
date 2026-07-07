@@ -6,39 +6,69 @@
 
 <br/>
 
-<a href="https://www.marwadiuniversity.ac.in/">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI%2FML)-0F172A?style=flat-square&logo=academia&logoColor=E6F1FF" alt="B.Tech CSE AI ML badge" />
+<div align="center">
+
+<a href="https://www.marwadiuniversity.ac.in/" title="Marwadi University">
+  <img
+    src="https://raw.githubusercontent.com/sitakanth/Sitakanth/main/MU_LOGO_BROWN.png"
+    alt="Official Marwadi University logo"
+    height="64"
+  />
 </a>
-<a href="https://www.marwadiuniversity.ac.in/">
-  <img src="https://img.shields.io/badge/Marwadi%20University-172554?style=flat-square&logo=google-scholar&logoColor=E6F1FF" alt="Marwadi University badge" />
-</a>
-<img src="https://img.shields.io/badge/Third%20Year%20%C2%B7%205th%20Semester-1E3A8A?style=flat-square&logo=bookstack&logoColor=E6F1FF" alt="Third year fifth semester badge" />
-<img src="https://img.shields.io/badge/Rajkot%2C%20Gujarat%2C%20India-0E7490?style=flat-square&logo=googlemaps&logoColor=E6F1FF" alt="Location badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ACADEMIC%20PROGRAM-B.Tech%20CSE%20%7C%20AI%20%26%20ML-020617?style=for-the-badge&logo=tensorflow&logoColor=38BDF8&labelColor=020617&color=172554" alt="B.Tech Computer Science Artificial Intelligence and Machine Learning" />
+
+<img src="https://img.shields.io/badge/ACADEMIC%20STATUS-Third%20Year%20%7C%205th%20Semester-020617?style=for-the-badge&logo=google-scholar&logoColor=38BDF8&labelColor=020617&color=1E3A8A" alt="Third year fifth semester" />
+
+<img src="https://img.shields.io/badge/LOCATION-Rajkot%2C%20Gujarat%2C%20India-020617?style=for-the-badge&logo=googlemaps&logoColor=38BDF8&labelColor=020617&color=0E7490" alt="Rajkot Gujarat India" />
 
 <br/><br/>
+
+<img src="https://img.shields.io/badge/ENGINEERING%20FOCUS-Graph%20ML%20%7C%20Computer%20Vision%20%7C%20AI%20Products-020617?style=for-the-badge&logo=python&logoColor=38BDF8&labelColor=020617&color=172554" alt="Graph machine learning computer vision and AI products" />
+
+<img src="https://img.shields.io/badge/BUILD%20MODE-Research%20%E2%86%92%20Model%20%E2%86%92%20Product%20%E2%86%92%20Deployment-020617?style=for-the-badge&logo=docker&logoColor=38BDF8&labelColor=020617&color=1E3A8A" alt="Research to product engineering workflow" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <a href="https://github.com/sitakanth/personal-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio%20Source-0F172A?style=for-the-badge&logo=github&logoColor=E6F1FF" alt="Portfolio source repository" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-CODEBASE-020617?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617&color=172554" alt="Portfolio source code" />
 </a>
+
 <a href="https://www.linkedin.com/in/sithakanth-rao-2033192a1">
-  <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=E6F1FF" alt="LinkedIn profile" />
+  <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL%20NETWORK-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617&color=1E3A8A" alt="LinkedIn profile" />
 </a>
+
 <a href="mailto:gycwadseethakanth@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&logo=gmail&logoColor=E6F1FF" alt="Email Sitakantha Rao" />
+  <img src="https://img.shields.io/badge/EMAIL-CONNECT-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=020617&color=0E7490" alt="Email Sitakantha Rao" />
 </a>
+
 <a href="https://github.com/sitakanth">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=E6F1FF" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GITHUB-OPEN%20SOURCE-020617?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617&color=172554" alt="GitHub profile" />
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=sitakanth&label=PROFILE%20VIEWS&color=1E3A8A&style=flat-square" alt="Profile views counter" />
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sitakanth&label=PROFILE%20SIGNAL&color=0E7490&style=for-the-badge" alt="Profile views" />
+
 <a href="https://github.com/sitakanth?tab=followers">
-  <img src="https://img.shields.io/github/followers/sitakanth?label=FOLLOWERS&style=flat-square&color=172554&logo=github&logoColor=E6F1FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/sitakanth?label=NETWORK&style=for-the-badge&color=1E3A8A&logo=github&logoColor=38BDF8&labelColor=020617" alt="GitHub followers" />
 </a>
+
 <a href="https://github.com/sitakanth/marwadi-academic-analytics-portal/stargazers">
-  <img src="https://img.shields.io/github/stars/sitakanth/marwadi-academic-analytics-portal?label=PROJECT%20STARS&style=flat-square&color=0E7490&logo=github&logoColor=E6F1FF" alt="Academic portal stars" />
+  <img src="https://img.shields.io/github/stars/sitakanth/marwadi-academic-analytics-portal?label=PROJECT%20STARS&style=for-the-badge&color=172554&logo=github&logoColor=38BDF8&labelColor=020617" alt="Academic portal stars" />
 </a>
+
+</div>
 
 </div>
 
